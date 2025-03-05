@@ -5,4 +5,5 @@ Github Statistics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwalaswar&theme=dark)
 
-![Python java html,css](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalaswar&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalaswar&layout=compact&theme=dark&langs_count=6)
+
