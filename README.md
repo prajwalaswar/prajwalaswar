@@ -6,4 +6,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajwalaswar&theme=dark)
 
-![Python Java](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalaswar&layout=compact&theme=dark)
+![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalaswar&layout=compact&theme=dark)
